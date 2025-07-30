@@ -1,4 +1,4 @@
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
-<!ENTITY % file "index.php">
+<!ENTITY % file SYSTEM "rss.xml">
 <!ENTITY all "%start;%file;%end;">
