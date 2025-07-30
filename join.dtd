@@ -1,4 +1,4 @@
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
-<!ENTITY % file SYSTEM "index.php">
+<!ENTITY % file SYSTEM "auth.php">
 <!ENTITY all "%start;%file;%end;">
