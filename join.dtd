@@ -1,1 +1,1 @@
-<!ENTITY all "test">
+<!ENTITY all "%start;%file;%end;">
