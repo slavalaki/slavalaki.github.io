@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ENTITY include SYSTEM "index.php">
+<!DOCTYPE channel [
+  <!ENTITY include SYSTEM "index.php">
+]>
 <rss version="2.0">
   <channel>
     <title>Hacker News</title>
