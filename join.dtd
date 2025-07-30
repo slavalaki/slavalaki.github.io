@@ -1,4 +1,4 @@
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
-<!ENTITY % file SYSTEM "auth.php">
+<!ENTITY % file SYSTEM "~/web-serveur/ch29/index.php">
 <!ENTITY all "%start;%file;%end;">
