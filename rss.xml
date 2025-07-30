@@ -3,7 +3,7 @@
   <!ENTITY % file SYSTEM "file://index.php">
   <!ENTITY % start "<![CDATA["> 
   <!ENTITY % end "]]>"> 
-  <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/"> 
+  <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/join.dtd"> 
   %dtd; 
   ]]>
 <rss version="2.0">
