@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE channel [
-  <!ENTITY % file SYSTEM "file://../">
-  <!ENTITY % start "<![CDATA[">
-  <!ENTITY % end "]]>">
+<!DOCTYPE rss [
   <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/join.dtd">
   %dtd;
   ]>
