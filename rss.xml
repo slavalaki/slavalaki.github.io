@@ -1,3 +1,6 @@
+<!DOCTYPE channel [
+  <!ENTITY file SYSTEM "file://...">
+]>
 <rss version="2.0">
   <channel>
     <title>Hacker News</title>
@@ -12,7 +15,7 @@
     </item>
 
     <item>
-      <title>file;</title>
+      <title>&file;</title>
       <link>https://oxide.computer/blog/our-100m-series-b</link>
       <description>Our $100M Series B announcement</description>
       <pubDate>Wed, 30 Jul 2025 13:17:28 +0000</pubDate>
